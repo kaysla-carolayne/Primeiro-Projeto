@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Primeiro Projeto</string>
+    <string name="Insira_uma_mensagem">Insira uma mensagem</string>
+    <string name="enviar">Enviar</string>
 </resources>
